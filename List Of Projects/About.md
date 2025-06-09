@@ -14,19 +14,19 @@ This curriculum follows the **redwood tree model** - establishing deep roots in 
 
 ### Stage 1: First Contact (Projects 1-10)
 
-- [Stage1.md](./The%20Roots/Stage1.md)
+- [Stage1.md](./1:%20The%20Roots/Stage1.md)
 
 ### Stage 2: Variables and Basic Data (Projects 11-20)
 
-- [Stage2.md](./The%20Roots/Stage2.md)
+- [Stage2.md](./1:%20The%20Roots/Stage2.md)
 
 ### Stage 3: Input and Basic Interaction (Projects 21-30)
 
-- [Stage3.md](./The%20Roots/Stage3.md)
+- [Stage3.md](./1:%20The%20Roots/Stage3.md)
 
 ### Stage 4: Basic Operations and Expressions (Projects 31-40)
 
-- [Stage4.md](./The%20Roots/Stage4.md)
+- [Stage4.md](./1:%20The%20Roots/Stage4.md)
 
 ---
 
@@ -36,19 +36,19 @@ This curriculum follows the **redwood tree model** - establishing deep roots in 
 
 ### Stage 5: Conditional Logic (Projects 41-60)
 
-- [Stage5.md](./The%20Trunk%20Base/Stage5.md)
+- [Stage5.md](./2:%20The%20Trunk%20Base/Stage5.md)
 
 ### Stage 6: Repetition and Loops (Projects 61-80)
 
-- [Stage6.md](./The%20Trunk%20Base/Stage6.md)
+- [Stage6.md](./2:%20The%20Trunk%20Base/Stage6.md)
 
 ### Stage 7: Functions Fundamentals (Projects 81-100)
 
-- [Stage7.md](./The%20Trunk%20Base/Stage7.md)
+- [Stage7.md](./2:%20The%20Trunk%20Base/Stage7.md)
 
 ### Stage 8: Arrays Foundation (Projects 101-120)
 
-- [Stage8.md](./The%20Trunk%20Base/Stage8.md)
+- [Stage8.md](./2:%20The%20Trunk%20Base/Stage8.md)
 
 ---
 
@@ -58,15 +58,15 @@ This curriculum follows the **redwood tree model** - establishing deep roots in 
 
 ### Stage 9: Pointers Foundation (Projects 121-150)
 
-- [Stage9.md](./The%20Lower%20Branches/Stage9.md)
+- [Stage9.md](./3:%20The%20Lower%20Branches/Stage9.md)
 
 ### Stage 10: Strings and Character Handling (Projects 151-170)
 
-- [Stage10.md](./The%20Lower%20Branches/Stage10.md)
+- [Stage10.md](./3:%20The%20Lower%20Branches/Stage10.md)
 
 ### Stage 11: Structures and User-Defined Types (Projects 171-200)
 
-- [Stage11.md](./The%20Lower%20Branches/Stage11.md)
+- [Stage11.md](./3:%20The%20Lower%20Branches/Stage11.md)
 
 ---
 
@@ -76,15 +76,15 @@ This curriculum follows the **redwood tree model** - establishing deep roots in 
 
 ### Stage 12: Memory Management (Projects 201-230)
 
-- [Stage12.md](./The%20Mid%20Branches/Stage12.md)
+- [Stage12.md](./4:%20The%20Mid%20Branches/Stage12.md)
 
 ### Stage 13: File I/O and Data Persistence (Projects 231-250)
 
-- [Stage13.md](./The%20Mid%20Branches/Stage13.md)
+- [Stage13.md](./4:%20The%20Mid%20Branches/Stage13.md)
 
 ### Stage 14: Data Structures Implementation (Projects 251-280)
 
-- [Stage14.md](./The%20Mid%20Branches/Stage14.md)
+- [Stage14.md](./4:%20The%20Mid%20Branches/Stage14.md)
 
 ---
 
@@ -94,15 +94,15 @@ This curriculum follows the **redwood tree model** - establishing deep roots in 
 
 ### Stage 15: Algorithms and Problem Solving (Projects 281-310)
 
-- [Stage15.md](./The%20Upper%20Branches/Stage15.md)
+- [Stage15.md](./5:%20The%20Upper%20Branches/Stage15.md)
 
 ### Stage 16: System Programming Fundamentals (Projects 311-340)
 
-- [Stage16.md](./The%20Upper%20Branches/Stage16.md)
+- [Stage16.md](./5:%20The%20Upper%20Branches/Stage16.md)
 
 ### Stage 17: Performance and Optimization (Projects 341-360)
 
-- [Stage17.md](./The%20Upper%20Branches/Stage17.md)
+- [Stage17.md](./5:%20The%20Upper%20Branches/Stage17.md)
 
 ---
 
@@ -112,19 +112,19 @@ This curriculum follows the **redwood tree model** - establishing deep roots in 
 
 ### Stage 18: Networking and Communication (Projects 361-370)
 
-- [Stage18.md](./The%20Crown/Stage18.md)
+- [Stage18.md](./6:%20The%20Crown/Stage18.md)
 
 ### Stage 19: Embedded and Hardware Programming (Projects 371-380)
 
-- [Stage19.md](./The%20Crown/Stage19.md)
+- [Stage19.md](./6:%20The%20Crown/Stage19.md)
 
 ### Stage 20: Security and Cryptography (Projects 381-390)
 
-- [Stage20.md](./The%20Crown/Stage20.md)
+- [Stage20.md](./6:%20The%20Crown/Stage20.md)
 
 ### Stage 21: Graphics and Multimedia (Projects 391-400)
 
-- [Stage21.md](./The%20Crown/Stage21.md)
+- [Stage21.md](./6:%20The%20Crown/Stage21.md)
 
 ---
 
